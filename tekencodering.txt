@@ -1,0 +1,4 @@
+TEKENCODERING
+
+TODO: Vervang de "kleiner dan"-tekens in mypets.html met Unicode.
+TODO: Vervang het aanhalingsteken van "thema's" in de samenvatting van pageturner.html met Unicode.
